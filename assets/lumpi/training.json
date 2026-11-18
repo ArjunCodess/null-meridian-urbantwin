@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": "000000",
+    "path": "assets/lumpi/training/000000.npy",
+    "labels": "assets/lumpi/training/000000.json",
+    "domain": "synthetic",
+    "source_sha256": "afdefd1d57d0decaf5174ea880005c9b234a8db76f28a558c2dd141f759877a8",
+    "sha256": "367f8280b3ae0720217d985c08a7523c6a86b7072126b92947f786be8896a3b3",
+    "labels_sha256": "4b6ee50e0aef6aa4d54e5d9105b5584d43578031829f7169ab990d52ca7e0725",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "000175",
+    "path": "assets/lumpi/training/000175.npy",
+    "labels": "assets/lumpi/training/000175.json",
+    "domain": "synthetic",
+    "source_sha256": "58003e758d9eb7888d0a15e49f36f4a0709caa26a34d1c819a789e366995f876",
+    "sha256": "ea26d758ad81c32bd482482576a8a660aa4d55d4fd5255fb5a86a41cc0f2ab0d",
+    "labels_sha256": "31f3507e470e8b127ec2614369b61ef542f4eea56c3506bd4f59e0a92b2538ea",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "000350",
+    "path": "assets/lumpi/training/000350.npy",
+    "labels": "assets/lumpi/training/000350.json",
+    "domain": "synthetic",
+    "source_sha256": "a6c004064873c9d4f486e1dd5979d3ec628a9d2c7714aad3ffd24d4c4154bc68",
+    "sha256": "c1fd0105ba0fe5cda427963ba34661d03e92fc1ab621ed9d56506ddc40127b5e",
+    "labels_sha256": "413be939d21d868e17478e6412ada24e490007ab530a3da7847ee36e2e3803a2",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "000525",
+    "path": "assets/lumpi/training/000525.npy",
+    "labels": "assets/lumpi/training/000525.json",
+    "domain": "synthetic",
+    "source_sha256": "0548485f86d78f60d881a67f839d699d19c4647a8faf0461338b018ea49ff365",
+    "sha256": "0136308d0c4b9b647883dd16413d5cb5877521713d9bbe9e54468f4a8e41c412",
+    "labels_sha256": "bcd52d05dac6e43fb0d5c65c624394f6351fb27f228e58484f12aeafdc2a17ff",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "000700",
+    "path": "assets/lumpi/training/000700.npy",
+    "labels": "assets/lumpi/training/000700.json",
+    "domain": "synthetic",
+    "source_sha256": "2be467be5a965cf5534fcb6565b3594e30f5e00227150c0543970338073ec470",
+    "sha256": "1bfcba030bace1d0008aa7ac958909644f5dfc0e89975945a48e2d7f5959e5ab",
+    "labels_sha256": "07ffd24c340644822d40620674aeeabedf630493a6c04868abb63134038e72bb",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "000875",
+    "path": "assets/lumpi/training/000875.npy",
+    "labels": "assets/lumpi/training/000875.json",
+    "domain": "synthetic",
+    "source_sha256": "381f49b6f5237073bc1750f6a981eaf88b03ef7f2d8df664e7fc8f20d1dc5f50",
+    "sha256": "e30d0ff4cad8c579c78deabe03c745d6e8e038259e213b97e06b10c03ebcc16e",
+    "labels_sha256": "d07087c2945d98a5e4a499ea47dfb819830762bfa9a53c8258c0484380b3728c",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001050",
+    "path": "assets/lumpi/training/001050.npy",
+    "labels": "assets/lumpi/training/001050.json",
+    "domain": "synthetic",
+    "source_sha256": "07780a9e450e0eab29328bcf26bf5b24b65dfecf6b1cf7f719684d4a888c0d13",
+    "sha256": "bbeffd9e91a4b2f242e8ef0a509f4f65a58463c72e55e1e0941d4f4f04a9d3bb",
+    "labels_sha256": "e972fd0e08bd08dd01ab0bfe7d704df20021526bd27545ef14443fae9de7c475",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001225",
+    "path": "assets/lumpi/training/001225.npy",
+    "labels": "assets/lumpi/training/001225.json",
+    "domain": "synthetic",
+    "source_sha256": "790ccd68cadb65d166886433d0924075105a44d3f9fcd9ee451f93fd619fdd38",
+    "sha256": "e53b03c0a3d0bdb164091082d1a6d8b906784add409df0f2bd9ec089cde16d11",
+    "labels_sha256": "33161146d317e4cb28ec38fa9fd74e5f9579e30626018a50b3c57c56d273d8ef",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001400",
+    "path": "assets/lumpi/training/001400.npy",
+    "labels": "assets/lumpi/training/001400.json",
+    "domain": "synthetic",
+    "source_sha256": "1a9e8940a4b8586add1ff3071a77b13038fa9787ac5ec95e8960a4e8325fecf4",
+    "sha256": "7c2bf33fac7a57854f7c346a8e5a9506c2f3914d5e2e45aff20f1c4e9bd0d031",
+    "labels_sha256": "a9d80c6c5a18253832742fdc3ef4b1c3d52d1e7753db678a6cf1d62355cdabfd",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001575",
+    "path": "assets/lumpi/training/001575.npy",
+    "labels": "assets/lumpi/training/001575.json",
+    "domain": "synthetic",
+    "source_sha256": "270ead8266f6729b55e830a5685d2267c3b06c18ed06b40e24d51b91f295c3c3",
+    "sha256": "faf4dd789f859d59a9372240bf30f7053779b2f2041d82fbd50dbe4428d31ec2",
+    "labels_sha256": "f343960bb2a8101e891edddfac33972c18f211d25afc155ec92fb0f5bae59b43",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001750",
+    "path": "assets/lumpi/training/001750.npy",
+    "labels": "assets/lumpi/training/001750.json",
+    "domain": "synthetic",
+    "source_sha256": "12ab42b9ab21a4c619f895f51cf12e7873cc47221437ff0f83389af0197350c9",
+    "sha256": "19203487f9299125c4162596dd4775578df1e8ac36ffb5d7d6dc1090dedc3873",
+    "labels_sha256": "7d094a2c479bd44bbbc228913665170d1e2046fd6a525a5dd368cb17605a56e0",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "001925",
+    "path": "assets/lumpi/training/001925.npy",
+    "labels": "assets/lumpi/training/001925.json",
+    "domain": "synthetic",
+    "source_sha256": "aaaff93dbf5ec8044be03e220630c6081cb50f899ac7efb8ded220114530c8e7",
+    "sha256": "6f406ac225d2410fc26839c1f7d45b5cb8e6fcd0eea47ce12314c06ba858f30a",
+    "labels_sha256": "a5f53ab020a7037bc08e74585aab06b90582214a4a0497ca6ac3a258f720f354",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002100",
+    "path": "assets/lumpi/training/002100.npy",
+    "labels": "assets/lumpi/training/002100.json",
+    "domain": "synthetic",
+    "source_sha256": "85cf8d90e61110cab486300d4c8f8bea2620ac6e9a2df1c9d837d60286c4e0eb",
+    "sha256": "972d524650e31ced875f79f252f82a2f65f39598bedf8df96fdd28f99f745ac2",
+    "labels_sha256": "661b3d14ea9dfb4be913e6f7a9a342795902e2be463d6093441add19f9890f71",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002275",
+    "path": "assets/lumpi/training/002275.npy",
+    "labels": "assets/lumpi/training/002275.json",
+    "domain": "synthetic",
+    "source_sha256": "b8864b53f81fd868720c94e609e7e8bca36ba1219550cd2c4bd8bbe22c98d94b",
+    "sha256": "e7014a440f1c27001e38c9ee9f5aebe2836d86dcd2ca5d96462c128ba3cecddd",
+    "labels_sha256": "c862c99b42a3be0a582db45b411cdd3c18c9e93d6c91ecb96c740f8ddadda46b",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002450",
+    "path": "assets/lumpi/training/002450.npy",
+    "labels": "assets/lumpi/training/002450.json",
+    "domain": "synthetic",
+    "source_sha256": "f796a00bb06b0faccdcd2bebec6096fbf0cc057aec3cdc952906dfd4678e9220",
+    "sha256": "67322decef6cddd9a7fa60df76c329b2e2feb1d71d3428bdaf0c5e934f880611",
+    "labels_sha256": "cb5767d74237267de4877b3a73392c71366cdcce9d7bc677df83d181dbb3f3a2",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002625",
+    "path": "assets/lumpi/training/002625.npy",
+    "labels": "assets/lumpi/training/002625.json",
+    "domain": "synthetic",
+    "source_sha256": "b25100e3ae17700c8ff96b5b438bc4f7d6e3419c683af84a0bec792ed71aa371",
+    "sha256": "a9f2b20f9f3948eb8bb3bd521267c6dc26ee67350dbb6faabbc458e79f1f8bc5",
+    "labels_sha256": "df6e4f473ccebf36aafa9f9654ddfd7fdc02fba18ffd2295ddb3c7a6047fefb5",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002800",
+    "path": "assets/lumpi/training/002800.npy",
+    "labels": "assets/lumpi/training/002800.json",
+    "domain": "synthetic",
+    "source_sha256": "5cde54c174490c44c9b79673d8083bebce3522f60be8e00ea2cf45fbfffe2606",
+    "sha256": "18d23d0cb6babcf25a24c4452891964cca89487e719117818ca662e1d9076cb9",
+    "labels_sha256": "8c950ce5bde9e326dd5c804c372ac61c100e0e69333c6c474c5c1812b943e82c",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "002975",
+    "path": "assets/lumpi/training/002975.npy",
+    "labels": "assets/lumpi/training/002975.json",
+    "domain": "synthetic",
+    "source_sha256": "c1190ca6b648b672e6034584111c69838c346084ee740228f4975bb945c1ab04",
+    "sha256": "d2b2792181a041e460fe9d622f3e2e36411df3bc6b5f81f1635daeaad0123a30",
+    "labels_sha256": "c34938541dc0d69b89329c0e65da8f4eb3af408663e87927de39c3d2586d989f",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "003150",
+    "path": "assets/lumpi/training/003150.npy",
+    "labels": "assets/lumpi/training/003150.json",
+    "domain": "synthetic",
+    "source_sha256": "bffdffd2dc6f9f0c77877e0cf13988512082e7e73acc7b09f503b2f876f6f945",
+    "sha256": "36ad270e49a75c1d53fe84144b17accbb16751fca9f15000a4ac3488b9d53355",
+    "labels_sha256": "9b3fab4827eb59e5ef0f9d419eba394c6dd7e0fe368cab8a7baffca30d1f2590",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "003325",
+    "path": "assets/lumpi/training/003325.npy",
+    "labels": "assets/lumpi/training/003325.json",
+    "domain": "synthetic",
+    "source_sha256": "871e5d75baf8eabf410ae3721e10feb994f64711ceab6be704a906a56456344d",
+    "sha256": "1cc2c41fe5236a4f82b688d1a544b2625278a9d4accbbc4909db4f6b8d93431c",
+    "labels_sha256": "fa859dbd4630f61869b1a8f1aab966559c2b3caf462de5698e29dafa56664c0f",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "003500",
+    "path": "assets/lumpi/training/003500.npy",
+    "labels": "assets/lumpi/training/003500.json",
+    "domain": "synthetic",
+    "source_sha256": "a861eecd7da3efaf8cc2b62cd5c3e64e5f4f43ffca53757b7e071fe77bf28c4b",
+    "sha256": "193136eaabe3240eb880a82d7102bfc3fa657a363f29c30a108943e02737896d",
+    "labels_sha256": "2113f65dfa269d669cc832f23e439631537e19d8d0324d455c4f39d125d1f398",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "003675",
+    "path": "assets/lumpi/training/003675.npy",
+    "labels": "assets/lumpi/training/003675.json",
+    "domain": "synthetic",
+    "source_sha256": "cd191d64a07f41175675c8da70adc9b335cae8ce4acd641848f45b71e5222ea2",
+    "sha256": "d34f72da04821d8a410c9e0f8c59ddb62686e4c790d4d52c8d714d5352fe75c4",
+    "labels_sha256": "12dcebdb3e6c299d1a3408abf9369cd7a2e46b3e0bf75f30e2dab06a93d42c03",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "003850",
+    "path": "assets/lumpi/training/003850.npy",
+    "labels": "assets/lumpi/training/003850.json",
+    "domain": "synthetic",
+    "source_sha256": "7140dec579b81f44f1f4791445cded2b34419981a0501777fc445df593c16a2e",
+    "sha256": "54f51b70e96cbc6eddae7c9f547b32f2a0be7d4085d0650cf620c36c5afb3913",
+    "labels_sha256": "ac22f0e375b2d1d51807c7ff997ccea484e933f0cf90251be7d9682c366bdcb9",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004025",
+    "path": "assets/lumpi/training/004025.npy",
+    "labels": "assets/lumpi/training/004025.json",
+    "domain": "synthetic",
+    "source_sha256": "728304fddb74c5382d1f110df030f9df85a726cd3ae7a3f2b7286b3f345a4411",
+    "sha256": "86c8bf5c8a1c3a3a00bfa713c13573616de0b57baf7aa74e12fddf1715836bc5",
+    "labels_sha256": "98a6ce8453fae9373c247cfaa145e5bdf8e2cc65480bdb4253ee4550c633a393",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004200",
+    "path": "assets/lumpi/training/004200.npy",
+    "labels": "assets/lumpi/training/004200.json",
+    "domain": "synthetic",
+    "source_sha256": "015f7bc4ba0036f842efbdd1bfaf262602870d2020b459ddd9e7a3b724364756",
+    "sha256": "37b1cae9fc1b1c695afccc3aa71247d413b299904fe3d7a466169f42dc939b20",
+    "labels_sha256": "f556f98fae1c1eb4f28d9f7d3e544537f231893538862b8f47ea024b384d7032",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004375",
+    "path": "assets/lumpi/training/004375.npy",
+    "labels": "assets/lumpi/training/004375.json",
+    "domain": "synthetic",
+    "source_sha256": "6f2e6dcae00b025f63a43828ac6df0d3fa5ead0dcb1dec3d503951084036e875",
+    "sha256": "473ba49802408f8025bd17e7ad166cc181b21701bd4eabbc265f937ef6138b1e",
+    "labels_sha256": "1c8ca2e5d6a9f65bb5d02e35395f7fe98e47045abfa411012c892db3d76987b5",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004550",
+    "path": "assets/lumpi/training/004550.npy",
+    "labels": "assets/lumpi/training/004550.json",
+    "domain": "synthetic",
+    "source_sha256": "27b057c7212d6fb75096bc68ffd2c984b240eb3b4fd7c100cd61ff33596ef311",
+    "sha256": "83d54d4323dad9f10b81e959e0f64fb2fa8fefe28993319ae9544539333561d1",
+    "labels_sha256": "912db61cdfc50cbfae36723905aef703b7ed9579a8bcb8f8711c02ec01d55b41",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004725",
+    "path": "assets/lumpi/training/004725.npy",
+    "labels": "assets/lumpi/training/004725.json",
+    "domain": "synthetic",
+    "source_sha256": "2c75b4d0d627c031b335cd0a34ae4738899e7fd0192b35c98d1cb7d9da240e18",
+    "sha256": "f3b1aaeb8556fc05489da632ad0d30b47c82d904753077a56acc86ea7c3d044b",
+    "labels_sha256": "0b5171c5d9b07b7512e61344f1e3b132054966985f086caa8efece77ce8d940a",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "004900",
+    "path": "assets/lumpi/training/004900.npy",
+    "labels": "assets/lumpi/training/004900.json",
+    "domain": "synthetic",
+    "source_sha256": "85cb3a0484caa0b3b9ef8c61df062c1724761c0386c868dfc823bb51d80b9768",
+    "sha256": "3ab058538190896c9cb6e620c06cf34269bcaf565fc390e793ffe4471cc2ca7c",
+    "labels_sha256": "8260a4a79864bf5f471a634372f006e9f26fea8729d3415ac553cc493756b262",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005075",
+    "path": "assets/lumpi/training/005075.npy",
+    "labels": "assets/lumpi/training/005075.json",
+    "domain": "synthetic",
+    "source_sha256": "dc445017d299b5eab3b2096e67991b503f3e13c021d6fabdbe493226a10e6dd4",
+    "sha256": "b1a0efc70da0601eeeadb3b802f9077bad11cb895cc5b1d91bbf4fef1102e1ba",
+    "labels_sha256": "91c2c39a03e703fd2fe0080ef257772e14e50006ba56fe19a6f22c34e05f764f",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005250",
+    "path": "assets/lumpi/training/005250.npy",
+    "labels": "assets/lumpi/training/005250.json",
+    "domain": "synthetic",
+    "source_sha256": "afcf5c87f9bd8694077af99bd63caac97589e3829c4ecaafaff489df8b3af6a4",
+    "sha256": "f9524819ebe94cc2ca4285c82ed2c85448c92c3f25e01e8b270089e0829e8e98",
+    "labels_sha256": "5d855df7315bbcb2393d488fa159a3c10dd662d0d50c11dd5f211a46ac7b7a99",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005425",
+    "path": "assets/lumpi/training/005425.npy",
+    "labels": "assets/lumpi/training/005425.json",
+    "domain": "synthetic",
+    "source_sha256": "4fa30b5541c21c5e9cc2b4adcc0d1757ba59f820bc94941a9d328ecd61ea3aa5",
+    "sha256": "fb01e5893253bf7405aeb3570a2c910cb556053c20bfdc7b559673a3d439a3e7",
+    "labels_sha256": "5d2b60d0427b4cddc000c1d3d5e9b024ea92756757e2045587c3a6b9ae31c013",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005600",
+    "path": "assets/lumpi/training/005600.npy",
+    "labels": "assets/lumpi/training/005600.json",
+    "domain": "synthetic",
+    "source_sha256": "c95e34ec41c26aa079b23de763d9c0cd6182154ba54329525be409f63a7e1043",
+    "sha256": "67c5abb574bcea5567758b8676ecc295186f0763786b6efdfc4af1dc8befb29a",
+    "labels_sha256": "41dd9618f8b214c9622cba7aca0d25a076dc8941a10e0c1bf2d00cad590a7d8d",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005775",
+    "path": "assets/lumpi/training/005775.npy",
+    "labels": "assets/lumpi/training/005775.json",
+    "domain": "synthetic",
+    "source_sha256": "48bc7dc3ecefa85257b1e68489c1c5970abd107c80d88eab412667c467dad271",
+    "sha256": "7845ecf1d884d5d819ce3cdfb8ffec1f542b2624ef62108fb6b8596fde9a5355",
+    "labels_sha256": "7b17c8d12f95b140a05a9967620626228598b0a09dfda20c2b826b33dffe5a20",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "005950",
+    "path": "assets/lumpi/training/005950.npy",
+    "labels": "assets/lumpi/training/005950.json",
+    "domain": "synthetic",
+    "source_sha256": "8ff875f2443481dda948fb507d3f6ba0a3358b242bbd3f2dca5c55890faa6175",
+    "sha256": "71fecbbbe9f5cb68be85e898297453dc77f5575f90dc129b0f0560ffff00bb1d",
+    "labels_sha256": "d8cfd72ee301de7b590c9efcff04e8f07e2f01ec8194ed9b499ad113672b6b88",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "006125",
+    "path": "assets/lumpi/training/006125.npy",
+    "labels": "assets/lumpi/training/006125.json",
+    "domain": "synthetic",
+    "source_sha256": "48481c4abf57f73cf0b33c24893dc2970484da1dfd861ad557931c61d5b742ab",
+    "sha256": "e0b6d8d9ec9f1d3f8e04bbb40b01b5b7b46085b1a0073a11dd28600b5e95f2cf",
+    "labels_sha256": "bf749becea903016b3f84a3b7061ec9f1a38521fd3bb3f5d4ddce0663a7e28aa",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "006300",
+    "path": "assets/lumpi/training/006300.npy",
+    "labels": "assets/lumpi/training/006300.json",
+    "domain": "synthetic",
+    "source_sha256": "dc5b621b3ae5843235409d68c64a64796142ad67607dc16cb15fd9efee9e6559",
+    "sha256": "c0eec4fb27fcc264158cb18c35c9f2ff987e97a4c15e2d228475ebfaf7792082",
+    "labels_sha256": "e6ddc215aeb27eaa94c670bf88ef0113cb43c05980801537f2665307c48127f2",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "006475",
+    "path": "assets/lumpi/training/006475.npy",
+    "labels": "assets/lumpi/training/006475.json",
+    "domain": "synthetic",
+    "source_sha256": "57dd15451fe4a3b7517d2b901e418c5638b51544ebad0767ea6fe63662d2e13c",
+    "sha256": "6ed5857bbe95e092ee6635d5c9517afcfa85da822b24c498824e15d852fe17be",
+    "labels_sha256": "7e8d0419e5eff57deb63f0b08bc7cff1ca47e6de66131460bc30ec0cdde12d12",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "006650",
+    "path": "assets/lumpi/training/006650.npy",
+    "labels": "assets/lumpi/training/006650.json",
+    "domain": "synthetic",
+    "source_sha256": "51b7bdca89e1c5f20e2f70ff6decb990aa1d8523aee219cb15789c83b40ac965",
+    "sha256": "c447c3a463e620d66418ffb17577d74202636e794d311d400f003e07e82e85dd",
+    "labels_sha256": "42ecbd0dab35447a19d3665e7be7b1a6656e3a70f49f02c5cd59a41c71ed7d70",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "006825",
+    "path": "assets/lumpi/training/006825.npy",
+    "labels": "assets/lumpi/training/006825.json",
+    "domain": "synthetic",
+    "source_sha256": "856a3987cd3979c63251fd947306fbdb4b10bafed12d39b498eef043df91c056",
+    "sha256": "96172684192ab5978d75a286000a9dd44383284c555be89a859a7851088278db",
+    "labels_sha256": "1059a4e59fef45d208d6df1ac6bd19f0586e748e003e2766dacbec4db8ebd98e",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007000",
+    "path": "assets/lumpi/training/007000.npy",
+    "labels": "assets/lumpi/training/007000.json",
+    "domain": "synthetic",
+    "source_sha256": "9038bca513d8b20d40721c51b76b87e9713efa285891d5495f9e6ab668b015b2",
+    "sha256": "142963476d3d87eff00848e0bdde8fae6ce0cfa7fd1eaef58381e46bd02608c6",
+    "labels_sha256": "fd797e627a74e0d902c976c7be2515233b2809e4f9617f6993abcc1f39027f53",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007175",
+    "path": "assets/lumpi/training/007175.npy",
+    "labels": "assets/lumpi/training/007175.json",
+    "domain": "synthetic",
+    "source_sha256": "aedf27f7149cb39f011c593cf7b41a79a41f87ebd5bb19c0827e644b254e8cd9",
+    "sha256": "d25a4bc70fa2bfee9c44591cce78fa4233528a7e7155767f82d2d45f50b865c6",
+    "labels_sha256": "474d37580425d5859fa373cf89e0de49cadabc7e345c68ab9ae07aefa70b682d",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007350",
+    "path": "assets/lumpi/training/007350.npy",
+    "labels": "assets/lumpi/training/007350.json",
+    "domain": "synthetic",
+    "source_sha256": "c04083ef7f6fde8d9e3ee478223a3a1b0c78d181c12c1054e5825b45548df05e",
+    "sha256": "da7f184199813366781ef4eef49203011fdaea4c2b609eabb72c0c7e6ae88c0b",
+    "labels_sha256": "f145dc75951d7f5442280a720ff408dbd30563c6178bb402d091edbe3e8ff739",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007525",
+    "path": "assets/lumpi/training/007525.npy",
+    "labels": "assets/lumpi/training/007525.json",
+    "domain": "synthetic",
+    "source_sha256": "262b161b9ae43424dad58f7aedbabd374adc6b37fbc06474a169abaa541dce9a",
+    "sha256": "291db333d0f3b5ebd48567f9041365fc33d1211c8cb97b31040bb3694c63b1df",
+    "labels_sha256": "a9f05e616841aeb3924c469ddc350ca207b4008eb9f31956a8276d4cc2f1ded4",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007700",
+    "path": "assets/lumpi/training/007700.npy",
+    "labels": "assets/lumpi/training/007700.json",
+    "domain": "synthetic",
+    "source_sha256": "5cba9310df47d35a6b8990840213976a9434f406bbdfd5297c5908b4b1ea341c",
+    "sha256": "5840b2ac70212c255780323d4e1fd7dbd7fe30a313e92384256308b4ae7ef654",
+    "labels_sha256": "9aec61970949206f65e77f754ff71e40e6e2348f315934bc3076f9badbf0af92",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "007875",
+    "path": "assets/lumpi/training/007875.npy",
+    "labels": "assets/lumpi/training/007875.json",
+    "domain": "synthetic",
+    "source_sha256": "7afab81cc35ac0d5e13f6dc3465ec3d9b24b46b1d3eb26feb675e2286f0edd63",
+    "sha256": "aa4639d4444cd92ff981d07cba713cb1c5ac9f9558b1a4fd659a20c72747ddf2",
+    "labels_sha256": "28b1b77b49f69f83c20446fa4b949512e10af91271041c42a3565c151dd392b0",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008050",
+    "path": "assets/lumpi/training/008050.npy",
+    "labels": "assets/lumpi/training/008050.json",
+    "domain": "synthetic",
+    "source_sha256": "813e9d08b630056c56bca6d09ae5aac6bea97a205b90b5f5abd78d26d8582d7b",
+    "sha256": "6f1101e290fb396df546aebdb6b309b56d00416838b4333905e2c21edb4d292f",
+    "labels_sha256": "749eb750adb81e413d1d19851b8177b6ca3a70f78cfa078506e0b192ccd4d1f4",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008225",
+    "path": "assets/lumpi/training/008225.npy",
+    "labels": "assets/lumpi/training/008225.json",
+    "domain": "synthetic",
+    "source_sha256": "6f647ad8e1592c36530d782ab2e8ccb2fe11ac0c8b152cae55c83842ab87cc34",
+    "sha256": "1f2b4994cb6b3c0993e919568db8756a4f74bc180cf77b022c1c1a8b0a79a9c9",
+    "labels_sha256": "8cd61245e6d2bc1b314efaf7212d0cee8d7a736c20c110f6efaff76c6c13a537",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008400",
+    "path": "assets/lumpi/training/008400.npy",
+    "labels": "assets/lumpi/training/008400.json",
+    "domain": "synthetic",
+    "source_sha256": "ee2c7dae4fb2bbf0dd75d64741674619be2d4f0e48901bcfbdfc11c69abbd2f9",
+    "sha256": "c8865227c81d71bd8449e91c3ea6c7e0e0f6b3254fdda12aa4ee1fac93edc183",
+    "labels_sha256": "370cef53892842c8cb6d7422d03aa419d75f18dae0089d7ca18aece5758c4b50",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008575",
+    "path": "assets/lumpi/training/008575.npy",
+    "labels": "assets/lumpi/training/008575.json",
+    "domain": "synthetic",
+    "source_sha256": "55e00e1fbc7c45f71be6d2da3c2f6b941e6ebcaf0884a48291f9dfff0b01a989",
+    "sha256": "b84b89bc75cc1ee24dc44f90354c86b3cdba3e797340845f11063c45eba0be77",
+    "labels_sha256": "60950848c34d58ab193b36609eadb8a93709313fc3c78ca28457ec6385bf3e2f",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008750",
+    "path": "assets/lumpi/training/008750.npy",
+    "labels": "assets/lumpi/training/008750.json",
+    "domain": "synthetic",
+    "source_sha256": "6c61bad898075bd4c13dbf0c606de039be128d815848e7c93de3694398cc26bb",
+    "sha256": "e6d01734aa7ab6093ed5dcf4161f56a9e8878d9d6cee71794e18c3caa544f49a",
+    "labels_sha256": "9eaeddf3132cded53c96bf5ab80cead66967340b51a7d16b32ed0cd65fe1e252",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "008925",
+    "path": "assets/lumpi/training/008925.npy",
+    "labels": "assets/lumpi/training/008925.json",
+    "domain": "synthetic",
+    "source_sha256": "e127c6097d2d7a6c6fb0bb9f8c416ebdaa124000fbb2384a14e41e65c7b8b5a8",
+    "sha256": "01bf914d304379a9ca60920bbc27c0c2d112b391135ebd89b6fc3ba259531afa",
+    "labels_sha256": "77b59d2de7067ea69549b61081d0a8d4a1aabc77187039f134afbb14f6389bd5",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "009100",
+    "path": "assets/lumpi/training/009100.npy",
+    "labels": "assets/lumpi/training/009100.json",
+    "domain": "synthetic",
+    "source_sha256": "305a99464236cbfca85ef2243a6df41cb9762ae02484ea65787784ead5d3819b",
+    "sha256": "287585c2ac55c21c6e306d37973dd9840bdfc09b2a64bc629a1d08752e4c77ba",
+    "labels_sha256": "ba34bc99797780b3b9b36276417b4920aa7b2ab9f4c22a66e027b02065a32066",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "009275",
+    "path": "assets/lumpi/training/009275.npy",
+    "labels": "assets/lumpi/training/009275.json",
+    "domain": "synthetic",
+    "source_sha256": "ecab68bbb842b823a0ee92ed3f5c51094acb1d1be7d161a261f197be7e90c518",
+    "sha256": "380193ea7fab731f0f4069fc18d5985dd5dd8b784c90e4406f49277888a836b2",
+    "labels_sha256": "9deb84041d42bf9edc4ac387afbef2215d7fb0f66c185738c3ccc7bbaf96d246",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "009450",
+    "path": "assets/lumpi/training/009450.npy",
+    "labels": "assets/lumpi/training/009450.json",
+    "domain": "synthetic",
+    "source_sha256": "425dbcca162c400b1442494b0f87b27253e300e81952b809796513d9f50ad8a5",
+    "sha256": "8b7eb26909dd73be47e9e2dc905fe3e8009e4171cb0b4c841fbedff7af295fe2",
+    "labels_sha256": "3711d5e40e14fe90291907f1ee492a80876c937ee786a03772397a0992669948",
+    "track": "lumpi"
+  },
+  {
+    "frame_id": "009625",
+    "path": "assets/lumpi/training/009625.npy",
+    "labels": "assets/lumpi/training/009625.json",
+    "domain": "synthetic",
+    "source_sha256": "33dba78f52c11acda59ffce0769ba318007d3cf31f0bcb13c364391dcd603b08",
+    "sha256": "a68ebec724fff0ed1e0de7262b92763456d9e6a209cf5e399cf8b9319c95fee9",
+    "labels_sha256": "39a8da0970bf85319689d879486931a866686d3ac78d33e1c7cca417e5e29992",
+    "track": "lumpi"
+  }
+]

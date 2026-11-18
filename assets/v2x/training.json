@@ -1,0 +1,642 @@
+[
+  {
+    "frame_id": "000000",
+    "path": "assets/v2x/training/000000.npy",
+    "labels": "assets/v2x/training/000000.json",
+    "domain": "synthetic",
+    "source_sha256": "91c895b48f45905c6365146a6dd6e4680cb93091e517e8089aeaffeeb91704cc",
+    "sha256": "47572b26f8c6a72cc378c72a61c48196934bf5c0eafbcccf5d8dcf893fa3d754",
+    "labels_sha256": "d12830c1cc38cdcf91a80aeb91d9a75aa624e0c37f0c18c611e99eb8c4f572de",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000150",
+    "path": "assets/v2x/training/000150.npy",
+    "labels": "assets/v2x/training/000150.json",
+    "domain": "synthetic",
+    "source_sha256": "d98cadd6f4cfe9c7c39c9b9cde9e0e8696de0c375f4b6b6a6193096efcb9e54b",
+    "sha256": "7a3f6ab494fd3e0aec3f50d7eb65f963926bdd98a5ff8c132edfe8dce7e315e3",
+    "labels_sha256": "27f83c04de38e2e0fc7940caf2b4c87fe6648f70bdcc3e99d37278bf551cbb61",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000300",
+    "path": "assets/v2x/training/000300.npy",
+    "labels": "assets/v2x/training/000300.json",
+    "domain": "synthetic",
+    "source_sha256": "d967cbeaf3cb6901440b8a4a4308125eb149c8b5e776a0501a46590edbdd5b5c",
+    "sha256": "5de71416d9076a4cb00e06a562a2a7bc8fd2b88731183f173379199f147dea8d",
+    "labels_sha256": "d54fb1d536d47cb7590e10941603928917aed007b2fd43f716b8b200a4f33956",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000450",
+    "path": "assets/v2x/training/000450.npy",
+    "labels": "assets/v2x/training/000450.json",
+    "domain": "synthetic",
+    "source_sha256": "ad9b0292a6ade5942b65ed9950a171df38d795a0b745401ebb5559dfaedcf11f",
+    "sha256": "29c92faefe91557b54af4415f556566395a0c92e4ec6f2fe3d801d513cc280c7",
+    "labels_sha256": "fecf8e63880c5be9bd420436c8b899d9316558915d38b7fa985cb6a1a017e9d6",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000600",
+    "path": "assets/v2x/training/000600.npy",
+    "labels": "assets/v2x/training/000600.json",
+    "domain": "synthetic",
+    "source_sha256": "18a44ee5dbabe5e75bc5d959ee78eaff08aaf146e6a2bb0db91e83ea14e20cb1",
+    "sha256": "3c8d4508adb790316b466f1f924c3025e9898631236ecf30e8214458c05d65ea",
+    "labels_sha256": "18ef4c943570eb55f9f6e9eda59dfd0b60552d75f139c6ab742747c453f181cc",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000750",
+    "path": "assets/v2x/training/000750.npy",
+    "labels": "assets/v2x/training/000750.json",
+    "domain": "synthetic",
+    "source_sha256": "77a365d0bedf632d77870b66f41188c598e3f23ab2f29926437b3c165480894b",
+    "sha256": "c1e527a8d568c2547576e9c2674b49c757de56e942d9499df265ad461185b2ae",
+    "labels_sha256": "509734ef99e834f476710b5c503a13f88cd90c1a0a7270159536a7b2b3882d1f",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "000900",
+    "path": "assets/v2x/training/000900.npy",
+    "labels": "assets/v2x/training/000900.json",
+    "domain": "synthetic",
+    "source_sha256": "586c8ae9af5132b1b0c2f626895029eb01fb5b59356a3fcbfad72fd83b65ab8e",
+    "sha256": "8a5a7a8c5c25a0a04181e6766e57f08c71b600011883acc45a197bc88f41014e",
+    "labels_sha256": "883ad8fe47223d52db0458fbc3697c29ba91737e3c5b19d77bcd6c0efb5e986e",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001050",
+    "path": "assets/v2x/training/001050.npy",
+    "labels": "assets/v2x/training/001050.json",
+    "domain": "synthetic",
+    "source_sha256": "3054a1096d2ce9e670cae10fb44f1fad63502656c4fb3c0827c55d3675c43401",
+    "sha256": "f7f5fb6b9e3034a95570753bbd5e385aa51ccf3c5b476bc1c554b851411d9b4a",
+    "labels_sha256": "add71450ffd494067969b8b90f1140a67cd919af573ff22ee7c5efff4a7141f5",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001200",
+    "path": "assets/v2x/training/001200.npy",
+    "labels": "assets/v2x/training/001200.json",
+    "domain": "synthetic",
+    "source_sha256": "b9dd73373f8a63a391ad2b8931d93c2cb2aa67f1f5138d517082d354bad40f2e",
+    "sha256": "b07a6e6b62fdda4bc5320ccf2e359ef284efb8e3057e3d610c3180a4ab699417",
+    "labels_sha256": "594d5bc2c50d11ec053efb3239b1b876d90ef29ca8af5bdd8be7a762f4ee3278",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001350",
+    "path": "assets/v2x/training/001350.npy",
+    "labels": "assets/v2x/training/001350.json",
+    "domain": "synthetic",
+    "source_sha256": "33832335a19266fa5135caa7ff33107e8a839c3c5a41c9dd05d882151896ab21",
+    "sha256": "bca2025da3ffe737efba79afa98f4fb0b5b37cb695d72832292f1d145ff2129c",
+    "labels_sha256": "5d8790c0a68c6f2600c9069a4a8d006868d3e1342dff412f5656cda83d8840fe",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001500",
+    "path": "assets/v2x/training/001500.npy",
+    "labels": "assets/v2x/training/001500.json",
+    "domain": "synthetic",
+    "source_sha256": "b1c5561e62e769ecbefd71829c9a1553f5315f9660c94778d69f8990cef7fc16",
+    "sha256": "6eec5c20095902801199e840d891ee47e0a31c3e7a2f674ce12a799b53f2e9e0",
+    "labels_sha256": "257e61ab7fc15948d448d49e6125bf859aa8f9c0442f08c0769ee64bf4fd39e4",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001650",
+    "path": "assets/v2x/training/001650.npy",
+    "labels": "assets/v2x/training/001650.json",
+    "domain": "synthetic",
+    "source_sha256": "1b8f9d25b6964821297bbbb81f01562c2ec5e002d4dfca5544621098a54b2594",
+    "sha256": "9ea06bbffb08f4e4def4008fa1a5aeed2bd0e5543dd8ba7b094b395df025ad03",
+    "labels_sha256": "c424094297a6022ac40bb951b620c604fc3c505f74b8385c51f83ac01bd1fea5",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001800",
+    "path": "assets/v2x/training/001800.npy",
+    "labels": "assets/v2x/training/001800.json",
+    "domain": "synthetic",
+    "source_sha256": "8b0a8cc417105b356f846c5c5043b3014a06b9088a8fca1002a16d0545ef87e8",
+    "sha256": "cca2d6df89e76e3f5b4bf0ff912ccfc704643c0e83626ed6ecfa532af6d918b8",
+    "labels_sha256": "e1eceef3639c2b8af48dc5798d3d23df2faa9ffb566b7ee87cc86fcf525e2dd1",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "001950",
+    "path": "assets/v2x/training/001950.npy",
+    "labels": "assets/v2x/training/001950.json",
+    "domain": "synthetic",
+    "source_sha256": "81ce758d0ca1639e0d25ec65568b03135bd4a762b57a4c15be3e805de3a89453",
+    "sha256": "e239b53de070c5201540c15047b86fde6d8594aab7344a6cadf93e7441eb41fa",
+    "labels_sha256": "f6dfb7bb479e4d20a8c4b0ed1440c8db24883e26de0d670fabc852dff69aa8c5",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002100",
+    "path": "assets/v2x/training/002100.npy",
+    "labels": "assets/v2x/training/002100.json",
+    "domain": "synthetic",
+    "source_sha256": "7e4b866237c5292dfebe686b111d360dd449b206f419d00e7165386bd79cf62b",
+    "sha256": "1358560981e558e48d56d624adced2693fcc589a08771d9ab24d66b7e2d68173",
+    "labels_sha256": "d7f684a81bdf27e7207d5efb57690910a0b05f0dd3149295c9b2be68a989f545",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002250",
+    "path": "assets/v2x/training/002250.npy",
+    "labels": "assets/v2x/training/002250.json",
+    "domain": "synthetic",
+    "source_sha256": "9813ad8d19fd24402e1c351314ccaad333af36d5daead4d0655086c918361216",
+    "sha256": "0da371825b39564372c014bde4f5baf8d5604c838ca3b521e8b2819cc551e702",
+    "labels_sha256": "5ca2f4932cd9c88240005eec7520a760430ffaf6d33666f3533a8e83b826cce3",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002400",
+    "path": "assets/v2x/training/002400.npy",
+    "labels": "assets/v2x/training/002400.json",
+    "domain": "synthetic",
+    "source_sha256": "eb813dfe63f41a5e7dfe620f9827c351df7878855aa93218d57694bc8ad91430",
+    "sha256": "24341d7d6603b7f18c5c46af66ee314adfdeecccaff42bbaf897abcb66c2eef1",
+    "labels_sha256": "7535084a683c1f925200f10c52ec0ebfce218ac85708b2187eb7d94537e0f42b",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002550",
+    "path": "assets/v2x/training/002550.npy",
+    "labels": "assets/v2x/training/002550.json",
+    "domain": "synthetic",
+    "source_sha256": "a11207a280287ce1bdee6e7dc8f4e13f89a540f706dde6e92627637ed8b6b990",
+    "sha256": "6391f2a0ecc692f93d742a10c44d5add5657bb5f7d756eb92636fe4c9464da64",
+    "labels_sha256": "d6368367584eca4bced0d22d830d6c34447b75fc2e012b02ff62659914f357d9",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002700",
+    "path": "assets/v2x/training/002700.npy",
+    "labels": "assets/v2x/training/002700.json",
+    "domain": "synthetic",
+    "source_sha256": "0c074c1792a80dac8f946fa7d24d29329f2e45fe9ea8b75a713365603ed5bd00",
+    "sha256": "70f80616f7442590eadb4bdf6833b3245e5184fc084810b715bd7c75cce08546",
+    "labels_sha256": "460cadc9d92b97724ec0a10be4decc9c73f83cb78a6ecc580ce3e1cee7b55eb0",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "002850",
+    "path": "assets/v2x/training/002850.npy",
+    "labels": "assets/v2x/training/002850.json",
+    "domain": "synthetic",
+    "source_sha256": "895e3d83a8db7902beb2f16aaa39c9491dfa2b4e9ccfcefb892b39b3466c6a0b",
+    "sha256": "93310a026037855a204d539f426ca03a02d8345b846739b1d9eb64dd81283631",
+    "labels_sha256": "65ff24fad763135d7052abfefad30005fd30057791423ee14252842905d76060",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003000",
+    "path": "assets/v2x/training/003000.npy",
+    "labels": "assets/v2x/training/003000.json",
+    "domain": "synthetic",
+    "source_sha256": "2c437c28013b93fb92aa667bf88d9b39b11b82e920cc9e687bc6568c6e0b08f1",
+    "sha256": "282696bcd46ef21f2cd509bf70988b8540686daecce1e73bfc8dd19468416f76",
+    "labels_sha256": "b273408c916112ad47cb54d96758fd3d63d1b83f977b0622e6da5546b2317ef3",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003150",
+    "path": "assets/v2x/training/003150.npy",
+    "labels": "assets/v2x/training/003150.json",
+    "domain": "synthetic",
+    "source_sha256": "2cf980c76f1e6746204d4119dd15cec2547291eac7cf11f7c11c79ad832b2cd8",
+    "sha256": "1fd72bddfe77de09e5a384e5b695adbd22702676430dbd9a4a5370e04cea4be2",
+    "labels_sha256": "8699a5fa7bba90cffc57b400a0e658cd593396859a51163b2bbc750000c6c08f",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003300",
+    "path": "assets/v2x/training/003300.npy",
+    "labels": "assets/v2x/training/003300.json",
+    "domain": "synthetic",
+    "source_sha256": "8a260c19ee3fb7561d51e1b7a123053e718f16751c4185a059cd720b38aa186c",
+    "sha256": "4bc3d136856bce41820574f4a71cdc3c4018eadeae199a281fe52ce9cf5a70c0",
+    "labels_sha256": "8b57dddbc1aad49a472523fd3290a3688cb2922e79bb04656435c0fe8eee1fef",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003450",
+    "path": "assets/v2x/training/003450.npy",
+    "labels": "assets/v2x/training/003450.json",
+    "domain": "synthetic",
+    "source_sha256": "b6a5578a38d7861c82d88a9ef5e79b04f5df6401e4ab5497e337ae873c62cffb",
+    "sha256": "a6d1634d6df35bae2b58ac338d960de8abf47f5945349c67d38b11264540e3e4",
+    "labels_sha256": "431b5312106a939f718c3260f363f1a6548c49d6421a172242574e43ff25418b",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003600",
+    "path": "assets/v2x/training/003600.npy",
+    "labels": "assets/v2x/training/003600.json",
+    "domain": "synthetic",
+    "source_sha256": "9f4dc5091f77447b43e262f61948897ee522373cdcd4813afb9904b2e2174a1a",
+    "sha256": "f4c5ef7cc33f4228c8c48c2a1b93b8ca798dc316b430c33c150a7f80d580a629",
+    "labels_sha256": "42f857accecd1ad900db6bbc11d4086947ccee4438a84c422a8c2e9749e890c3",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003750",
+    "path": "assets/v2x/training/003750.npy",
+    "labels": "assets/v2x/training/003750.json",
+    "domain": "synthetic",
+    "source_sha256": "ccf0d50e8b7d850b0d5cce4a7b19a6862cacab79ec8169e20ed171bd227a32eb",
+    "sha256": "368931fbaccf814427e4b2365ce0b7bca3ec75b3129cb26365346df1d523412d",
+    "labels_sha256": "3ed21e811917a2f951955c44d6f3899cc3b0ffad9a2681d320add28d49f0d72e",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "003900",
+    "path": "assets/v2x/training/003900.npy",
+    "labels": "assets/v2x/training/003900.json",
+    "domain": "synthetic",
+    "source_sha256": "7394b8f0edb011f9024d2814529284cf382a02181b7497d984c4497dc1225bf4",
+    "sha256": "03b702049608b717f177042087c07f04b33011a2afcc3a27e2b71fad5e845c34",
+    "labels_sha256": "ca6267ed7d0289ea2d85d6993965e727b3dafb7dc96c41b1ae84d15a5d395345",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004050",
+    "path": "assets/v2x/training/004050.npy",
+    "labels": "assets/v2x/training/004050.json",
+    "domain": "synthetic",
+    "source_sha256": "ef51467a9b7bd9b74e46af8042ee6730b3bcda7021d86edc785bab20e794fd00",
+    "sha256": "7eea2f92a1430f42183ddee4317bb48bc281484f273bb5ac8f98e1c9198d3ccd",
+    "labels_sha256": "04902b648ecf0b19d6466fad904f4ed2be1f006bd4c35992408c33ae1f2b0a20",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004200",
+    "path": "assets/v2x/training/004200.npy",
+    "labels": "assets/v2x/training/004200.json",
+    "domain": "synthetic",
+    "source_sha256": "3a70c3e6fd1e1f538e18840567cf35e09cbb02e5f56bf4045fb9493f50309079",
+    "sha256": "62c5ce3d7fc85eb2edff8797c46648d512af52c2632167129ecabc5b14bac210",
+    "labels_sha256": "669918283b24c96b19757b16c2904865e20a883eb399062b200c2e0bbd6b1c51",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004350",
+    "path": "assets/v2x/training/004350.npy",
+    "labels": "assets/v2x/training/004350.json",
+    "domain": "synthetic",
+    "source_sha256": "66fde7f5f33f36385152d485b5561bf3eaa3fe85357b056623562d90a2e686c8",
+    "sha256": "0c861a735fae1af1befb30d2288bcb81c0edff8cea43e17be5ea216c7e905f4d",
+    "labels_sha256": "62da79ee28a7aa6d6a892c17fc12f3189bdbf319f1705b272d181fbf5c3c22d9",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004500",
+    "path": "assets/v2x/training/004500.npy",
+    "labels": "assets/v2x/training/004500.json",
+    "domain": "synthetic",
+    "source_sha256": "e0a5dc99abf9f930930eb673f81771880b3dd95969ad8a4f4199c025d8ec5b31",
+    "sha256": "2f6db4ab2179442f734a24f12669ab0de069e0b3169068c49d712e35eb1256f6",
+    "labels_sha256": "3d2bbb299693435f8ce04db2e928ef89ddaf0a308e7455e8e813df8d8ea8248d",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004650",
+    "path": "assets/v2x/training/004650.npy",
+    "labels": "assets/v2x/training/004650.json",
+    "domain": "synthetic",
+    "source_sha256": "b16156b7df0f95128c5763b9e61130be82a9eaf0ca62e38760617ee227be0ead",
+    "sha256": "74a025bb419fa3534912ba92f48e1a2331198075aeb9fe52a5eebe4ab283e8ac",
+    "labels_sha256": "16d16a841e89b306ec15e5cb5e969a4779055ba482a11e41d9fb22889128a65e",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004800",
+    "path": "assets/v2x/training/004800.npy",
+    "labels": "assets/v2x/training/004800.json",
+    "domain": "synthetic",
+    "source_sha256": "52a94a3e3f2b82f9d800b533867e85ec69fd6932dfd7a9aa440de3338eb18bd6",
+    "sha256": "2757259a4cc2abca52679e2144662ef208ae0e65f3c3a2a907dd5761193bc759",
+    "labels_sha256": "99a741e5acb25340c61a51bc0ce6c433b485a0978a8964dc6017652255d1ad6c",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "004950",
+    "path": "assets/v2x/training/004950.npy",
+    "labels": "assets/v2x/training/004950.json",
+    "domain": "synthetic",
+    "source_sha256": "0ccb449509a893cb6cb7c8d2241de6a29f91fa73fcfa9ba1dd48e309e778440c",
+    "sha256": "423be1b5a64d8c078e2363e057df366d8f25c9c77cdbcf46d2c2eba6504b6d7f",
+    "labels_sha256": "7e71f8c8187dc192723c65e040788dbb48c46bc7c361fedbf9d4f0d0140d6f42",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005100",
+    "path": "assets/v2x/training/005100.npy",
+    "labels": "assets/v2x/training/005100.json",
+    "domain": "synthetic",
+    "source_sha256": "a8efd32f1ebcbb68f58b472f571af87931e25b82ec8d861e564af485693833f1",
+    "sha256": "25762774640609d0f52c040d7731955861e55419133e1e588d778fd55360cbd2",
+    "labels_sha256": "7710156b3e66b08990402528d6e0466a1d1da00e68fdec8ae8ff33f14a28f21b",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005250",
+    "path": "assets/v2x/training/005250.npy",
+    "labels": "assets/v2x/training/005250.json",
+    "domain": "synthetic",
+    "source_sha256": "3f63357e7731848cc94c1bbdfa38b3209a96bcb6fcf0a6b22df88f2990f8c1b8",
+    "sha256": "c47e570db752c20fd8dd9e9d7eafd4ce3f44271866ffef10ecd97782877d9ec9",
+    "labels_sha256": "548dd18b68e349051913cf7e30cb55e1b8e1ae80b7b67f1ab4135cba8ca1f6ee",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005400",
+    "path": "assets/v2x/training/005400.npy",
+    "labels": "assets/v2x/training/005400.json",
+    "domain": "synthetic",
+    "source_sha256": "9aa9949b77b76e357ef7f798003b568f4682a55cf11ebd18b10998ba4c94fc20",
+    "sha256": "fea55bae86f9f6a28490323699f3d2a9d06b6d10d03176ac193e9e396acb637c",
+    "labels_sha256": "cb7869e098e2600335efef802aaffdd8fcd39ee8a520782aa74200740ad30933",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005550",
+    "path": "assets/v2x/training/005550.npy",
+    "labels": "assets/v2x/training/005550.json",
+    "domain": "synthetic",
+    "source_sha256": "35eabde1fafe40229d0be892fef7f12123fcc16a454fb9b103ec6f7c9377e0d2",
+    "sha256": "375c701b13d6e665bf05a37f992c1bff6e269eb7f898244d4581f61d1571ea71",
+    "labels_sha256": "271e186d1d60512a3136457f75af206fe5b3d95d35660dc8ddb9f71961377fd2",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005700",
+    "path": "assets/v2x/training/005700.npy",
+    "labels": "assets/v2x/training/005700.json",
+    "domain": "synthetic",
+    "source_sha256": "e35ce2c5af416f6861c25c46c27142bc835f41ebe3caeed8fa16a931a65fec27",
+    "sha256": "e2693692826ebc65970281be6bb53ab0c223d53842f8b6c0f6b831f531147b4c",
+    "labels_sha256": "2981e6313c68cd6638653bf79fc2c61aed2f4426aebf0d4a106fcf6bf0f17ea8",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "005850",
+    "path": "assets/v2x/training/005850.npy",
+    "labels": "assets/v2x/training/005850.json",
+    "domain": "synthetic",
+    "source_sha256": "5107b0977677441fda6d57106d47bc67cfb7e4276dcb44aef7ae718e6dd67f6e",
+    "sha256": "d6d46821fc9e2559ec50230a75f4da17477ad0b91a338d43bdcd0aaaf857fa00",
+    "labels_sha256": "5702b11aa6f21ec09ca38224dfec977dccd71ed8649a02a1390caa553cf5a260",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006000",
+    "path": "assets/v2x/training/006000.npy",
+    "labels": "assets/v2x/training/006000.json",
+    "domain": "synthetic",
+    "source_sha256": "b2fc641a487f6207c026137e714b62cd0b56872998b57717028b9e421df72b79",
+    "sha256": "a07afc9cb0da095ba32f8cd89fed1e8a57cc58fd74b615cdf1c4ff5957cb723b",
+    "labels_sha256": "ab614d82c61e645afb045731684a84bfc8d5fd6bce02f0166df1395890f87a8d",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006150",
+    "path": "assets/v2x/training/006150.npy",
+    "labels": "assets/v2x/training/006150.json",
+    "domain": "synthetic",
+    "source_sha256": "5b929a1bb1fc52309056f0d8cd27a3e776c7d4509c1092bbe9304f60208ced88",
+    "sha256": "ba1ded1dbeb289ccf7215ed9034205de6a2807302e784c2cf30e6604e899e5b3",
+    "labels_sha256": "a95d868f591b65c426a4303a00e12c942f0f1b9b0e36ece02e83c03f565f2320",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006300",
+    "path": "assets/v2x/training/006300.npy",
+    "labels": "assets/v2x/training/006300.json",
+    "domain": "synthetic",
+    "source_sha256": "bfe3170cdc0ce4d9ef5ec05a23d82f7888172c4ff85db8a564b0b7d01de679c1",
+    "sha256": "b99d6c0079ac2712646e73292d81bad439334db88176c765635ab0cfa88c9a2d",
+    "labels_sha256": "4d9942c9ac6a54930bf31044f405c5d58eb2f9982d3fc89fd764d37f6ad57afc",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006450",
+    "path": "assets/v2x/training/006450.npy",
+    "labels": "assets/v2x/training/006450.json",
+    "domain": "synthetic",
+    "source_sha256": "6da08537b16f8b4392dae0f09c6e382df567ef971e7298c16e963fd554a2ad52",
+    "sha256": "70ef3a46902c27ed1c5f91d81cf11feefe6187c603b1224951e0f3b729eee5bc",
+    "labels_sha256": "baeb5a1604492fdb22aa6dcd132d2eb045198ecef5feea66349967ee48c1b104",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006600",
+    "path": "assets/v2x/training/006600.npy",
+    "labels": "assets/v2x/training/006600.json",
+    "domain": "synthetic",
+    "source_sha256": "94acd4adaa1eade15bfbdf5ab2524eda413b33db9acc4f057fdbb85a729baaeb",
+    "sha256": "ecd2f42b5b9b46ce593c28a8ca8a7c1b7e331d63d7a7e4bd11fdfcbb7abc95a8",
+    "labels_sha256": "937ccce5cae48ea30a5640f79281df23aa2e5fac42a9b695fa247105b22f7b65",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006750",
+    "path": "assets/v2x/training/006750.npy",
+    "labels": "assets/v2x/training/006750.json",
+    "domain": "synthetic",
+    "source_sha256": "63f998b90a7a87002a865b67d5010b1d25a2e21b5d4995ab5e4e9a0d7cfdaa6d",
+    "sha256": "35511f9d0407780a852fd003554755f9df555c04d6a27771b74e3e46b9c96f01",
+    "labels_sha256": "c4e49f4548017cbad5237d5b8df394b5716cbf613ec9b2092070fc26bd79da70",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "006900",
+    "path": "assets/v2x/training/006900.npy",
+    "labels": "assets/v2x/training/006900.json",
+    "domain": "synthetic",
+    "source_sha256": "eebd24f72ba1505d75c7df03e47e6188e23a78a20e40bedda3e600f98f841812",
+    "sha256": "c92f5d5a7d25ebac4f341b94c45a658e6e8e8cb2ecb2d8046faeffac445a0880",
+    "labels_sha256": "d641b41086382e6c1c3581c047d2a610599cd462cfd7a829e55ce5186d3e2adf",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007050",
+    "path": "assets/v2x/training/007050.npy",
+    "labels": "assets/v2x/training/007050.json",
+    "domain": "synthetic",
+    "source_sha256": "10255d4280f089772d4a91caaebfd6f537963978d19a8b61e65a7d02539b5251",
+    "sha256": "8440f1875ecabde00eb39f20ee980c8d6c064b9ce938c90634ff12042d64f4f6",
+    "labels_sha256": "37ce3f4caffe1f0acb70c304f03be6bfcd99ec0c1912eef156df0f50a6758d10",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007200",
+    "path": "assets/v2x/training/007200.npy",
+    "labels": "assets/v2x/training/007200.json",
+    "domain": "synthetic",
+    "source_sha256": "55408803c117e4de9203e950eb112cb9aae68536a08c14ef05143131daf0d918",
+    "sha256": "606bc6d06c31a90488dacc69dc800a9c9917d64fd42c70cea01bb27242c506e5",
+    "labels_sha256": "fb4dcd09b00c3372f0d8f4f5e6637241bbcac1fb36ab6062dcfc7a9c2c12a6d6",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007350",
+    "path": "assets/v2x/training/007350.npy",
+    "labels": "assets/v2x/training/007350.json",
+    "domain": "synthetic",
+    "source_sha256": "e4ffc6d442636459bca8d9fefeb23dd5d9cbcb76fa2b73aa324daf36ae3cc1c1",
+    "sha256": "8ee4258dbda517f6349261ccbcf60beaa8c2d4dfb92603d3644a75cce7f79e68",
+    "labels_sha256": "ecb217bcb4f73c767a9350f8626ff38c618c534f983b55e98ccab39971c3c6a0",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007500",
+    "path": "assets/v2x/training/007500.npy",
+    "labels": "assets/v2x/training/007500.json",
+    "domain": "synthetic",
+    "source_sha256": "df7b12b5cdaeb2268d4187efd0671c98f329f42bc3502d45de6af02c42fbd527",
+    "sha256": "dbc23f303dde9d637cba8fa60d7e25b96bb309d5dcf25e12817d96f0e48b18bc",
+    "labels_sha256": "5795616d8c61d912932cdb276507f9d978970ab5dc5c774e1854a998f8a19036",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007650",
+    "path": "assets/v2x/training/007650.npy",
+    "labels": "assets/v2x/training/007650.json",
+    "domain": "synthetic",
+    "source_sha256": "948e6a567806a995a93f79438bcfd50437af3f93b66ddf11373acae024908186",
+    "sha256": "d63866e4e405315a60775f7e508a3dc751660b5a1cdde4ea0d493e7d34bff433",
+    "labels_sha256": "2685ac19a8375a24590bbf365c399a93a2419237243821175d37d78db654d7e4",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007800",
+    "path": "assets/v2x/training/007800.npy",
+    "labels": "assets/v2x/training/007800.json",
+    "domain": "synthetic",
+    "source_sha256": "a9dde5787357f9bf17b610a624d912dce52ff99db0ba4ab8a4f02b3f1f26d27e",
+    "sha256": "f18de4888fc957aa0607db084967550d9a6e6391b9322f0f3ddb1580a94bda94",
+    "labels_sha256": "f09455be8b9dc0d0725d900fd171c437bc6c45ccfa94828328b1ca1cf963b3d4",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "007950",
+    "path": "assets/v2x/training/007950.npy",
+    "labels": "assets/v2x/training/007950.json",
+    "domain": "synthetic",
+    "source_sha256": "bfb62c31230a2a4f4aae540d3a10c40a842587ac6cf845900d1bf0f47658fd07",
+    "sha256": "5bd30215a069f1fee8a86be28865e64d23e2633a7f9fde8f18b597b60aa3d9a6",
+    "labels_sha256": "156d35109f7856b7b576cdf1ee160ee0d09a846363181455ff9be01879a3ebce",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008100",
+    "path": "assets/v2x/training/008100.npy",
+    "labels": "assets/v2x/training/008100.json",
+    "domain": "synthetic",
+    "source_sha256": "b40f7b161edd07fd9e4779a1ea354b4ae320d52fece88c27e11da8e56a952215",
+    "sha256": "ed32e4d92fdb45c1b2f3bba45f29a077e085ba0226396c87aa70bf6632f17f55",
+    "labels_sha256": "f92de021dac129e23a7235286b5c23d4b78efe8d8bacdfdd22748f988ad078ee",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008250",
+    "path": "assets/v2x/training/008250.npy",
+    "labels": "assets/v2x/training/008250.json",
+    "domain": "synthetic",
+    "source_sha256": "b05a0a453c3231d059eb7ec589bc4387d915f8a400042218b6c07ec6c57f8bc5",
+    "sha256": "8caac16b9470fd1680d0218e701f3d9ffd7657c29c6ca522baf4e1dbcf574207",
+    "labels_sha256": "1b97d1945324ae7a80e820cbb4cf9c6bfa49ddcb0a28c523f8dfa378b3faa143",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008400",
+    "path": "assets/v2x/training/008400.npy",
+    "labels": "assets/v2x/training/008400.json",
+    "domain": "synthetic",
+    "source_sha256": "bcda5ed1d78c9f576afef7f352d024ded9bbb9292c7aadb4be2a067966960782",
+    "sha256": "b13bdeab19e1012060c9f730156ba2fc54c81f7fb2819abeee195fc34975f6d5",
+    "labels_sha256": "3fbe623ff5b84385192ed2e6dc294010e2dec6fd2b999600a74c116546e906c6",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008550",
+    "path": "assets/v2x/training/008550.npy",
+    "labels": "assets/v2x/training/008550.json",
+    "domain": "synthetic",
+    "source_sha256": "f8aede6157cf8830fd65a73080bc650332b0f6f1d785c67d832f29412e60ef86",
+    "sha256": "f8beeaa178b917b063636a1d98cf12001810da3eaf69e0a249e3586d5707e419",
+    "labels_sha256": "3ec9894e94a32d05ecbfd543d68f9ec61017226e4ce48e42e1e6b641c482f5e2",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008700",
+    "path": "assets/v2x/training/008700.npy",
+    "labels": "assets/v2x/training/008700.json",
+    "domain": "synthetic",
+    "source_sha256": "8c8b405b21a6992a4590ebcdfd86f5128f1a4ea06387fc0df4b16e0ed5cf3a65",
+    "sha256": "7bfdfefc7ddc354e9ea531877d0882407762066324dd91e38e562c1d2879dd32",
+    "labels_sha256": "7b9d6d80e3fddc3ba2276f9c72afa847707ba7bdcdafe9cf201b99804bea201f",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "008850",
+    "path": "assets/v2x/training/008850.npy",
+    "labels": "assets/v2x/training/008850.json",
+    "domain": "synthetic",
+    "source_sha256": "54efbda2146af96b251a631ae295eafce7f32070e67d9012f5ddffa632467d3d",
+    "sha256": "3495dc440d916fe11da3f0ef0cbe3d7c21d25cede225cde0bbb755fb8d6d64db",
+    "labels_sha256": "9ae614193b23169a456950f5b71ac1ad2550b9e1f60c680a02fbb3320efe0973",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "009000",
+    "path": "assets/v2x/training/009000.npy",
+    "labels": "assets/v2x/training/009000.json",
+    "domain": "synthetic",
+    "source_sha256": "1a29b1f190ca1febd529dbdea40a04139c826e904b9cf786ead489f5aec72fd8",
+    "sha256": "f3f375642eb996b181757cc95c023a0f63052ccc9d3d4547117d71e18e044235",
+    "labels_sha256": "b4532c77a821f7a0ecd118bfd0600bab2f00ce501f955699700fcfea93793e14",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "009150",
+    "path": "assets/v2x/training/009150.npy",
+    "labels": "assets/v2x/training/009150.json",
+    "domain": "synthetic",
+    "source_sha256": "85a8135d0a3a6ba7cc965acd784752f70f47bff3f34247812895ca67619ca845",
+    "sha256": "7241d74adecad1669de8e6c5e10d91f9d4c45a602be7d5877f96d075aeee682c",
+    "labels_sha256": "1671b88e1fcaf0c4df4ce8064a7ea08eae011f9673445b65b4f22f5b9021704a",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "009300",
+    "path": "assets/v2x/training/009300.npy",
+    "labels": "assets/v2x/training/009300.json",
+    "domain": "synthetic",
+    "source_sha256": "0a33ef74904feab46d6fc4a04a77ac4b4af43c01589d8becbb2472549bb06706",
+    "sha256": "e6c82b08ada53ccfb4c13ad6953e8391d56951cbb68fa781da01bb7233c204d2",
+    "labels_sha256": "12ea7dad8c887e6ed7ddab3fb3990e5eed795c17d5ee784b2ca7af839f1c1b79",
+    "track": "v2x"
+  },
+  {
+    "frame_id": "009450",
+    "path": "assets/v2x/training/009450.npy",
+    "labels": "assets/v2x/training/009450.json",
+    "domain": "synthetic",
+    "source_sha256": "52b353b68a142ca5e73056cca4c182f8b44d3220e19ea63ee19a15376feacfb9",
+    "sha256": "2fa445c859befb67e7410d24828b12027f5212f45f103680b9e1f914c357b451",
+    "labels_sha256": "f63158508a22564188a9fd686c89126aed84eaeb4b6888c86c6e0c73a3d341eb",
+    "track": "v2x"
+  }
+]
